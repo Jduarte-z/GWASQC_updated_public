@@ -165,7 +165,7 @@ def getCovarList(dictCovar):
     returnList = []
     for ind in dictCovar:
         for cov in dictCovar[ind]:
-            if cov not in ["STATUS_Original", "SEX_Original", "lineCount"]:
+            if (cov not in ["STATUS_Original", "SEX_Original", "lineCount"]) and (cov not in returnList):
                 returnList.append(cov)
 
-        return returnList
+    return returnList
