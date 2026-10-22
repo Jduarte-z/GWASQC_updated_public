@@ -1,5 +1,7 @@
 # GWASQC
 
+This forked version contains some updates regarding the implementation of the last changes in hwe equilibrium calculation https://www.cog-genomics.org/plink/2.0/filter#:~:text=Hardy%2DWeinberg%20equilibrium%20tests 
+
 Genotyping Quality Control focused on admixed populations. This pipeline is part of a LARGE-PD variant calling and QC 
 procedure, specifically designed for LARGE-PD Phase 2 data.
 
