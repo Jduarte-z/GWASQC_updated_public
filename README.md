@@ -1,6 +1,6 @@
 # GWASQC
 
-This forked version contains some updates regarding the implementation of the [last changes in hwe equilibrium calculation](https://www.cog-genomics.org/plink/2.0/filter#:~:text=Hardy%2DWeinberg%20equilibrium%20tests) 
+This forked version of our [Mata Lab QC pipeline](https://github.com/MataLabCCF/GWASQC) contains some updates regarding the implementation of the [last changes in hwe equilibrium calculation](https://www.cog-genomics.org/plink/2.0/filter#:~:text=Hardy%2DWeinberg%20equilibrium%20tests) 
 
 And [here](https://github.com/Jduarte-z/Tutorial-NarrowSense_h2_in_URPs_GP2#step-2a-example-on-array-data-qc-imputation-prep-and-imputation-with-topmed) you can find an example on how to implement it in the context of the project to estimate the narrow sense heritability in underrepresented populations in the Global Parkinson's Genetics Program (PG2). 
 
